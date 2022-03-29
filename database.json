@@ -1,0 +1,1249 @@
+[
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 4,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 4,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 4,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 4,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 5,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 5,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 5,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 5,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 6,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 6,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 6,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 6,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add user settings",
+        "content_type": 7,
+        "codename": "add_usersettings"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change user settings",
+        "content_type": 7,
+        "codename": "change_usersettings"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete user settings",
+        "content_type": 7,
+        "codename": "delete_usersettings"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view user settings",
+        "content_type": 7,
+        "codename": "view_usersettings"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add voting",
+        "content_type": 8,
+        "codename": "add_voting"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change voting",
+        "content_type": 8,
+        "codename": "change_voting"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete voting",
+        "content_type": 8,
+        "codename": "delete_voting"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view voting",
+        "content_type": 8,
+        "codename": "view_voting"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add vote variant",
+        "content_type": 9,
+        "codename": "add_votevariant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change vote variant",
+        "content_type": 9,
+        "codename": "change_votevariant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete vote variant",
+        "content_type": 9,
+        "codename": "delete_votevariant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view vote variant",
+        "content_type": 9,
+        "codename": "view_votevariant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add vote fact",
+        "content_type": 10,
+        "codename": "add_votefact"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change vote fact",
+        "content_type": 10,
+        "codename": "change_votefact"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete vote fact",
+        "content_type": 10,
+        "codename": "delete_votefact"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view vote fact",
+        "content_type": 10,
+        "codename": "view_votefact"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add vote fact variant",
+        "content_type": 11,
+        "codename": "add_votefactvariant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change vote fact variant",
+        "content_type": 11,
+        "codename": "change_votefactvariant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete vote fact variant",
+        "content_type": 11,
+        "codename": "delete_votefactvariant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view vote fact variant",
+        "content_type": 11,
+        "codename": "view_votefactvariant"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "main",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "main",
+        "model": "usersettings"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "main",
+        "model": "voting"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "main",
+        "model": "votevariant"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "main",
+        "model": "votefact"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "main",
+        "model": "votefactvariant"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "6guvqwslpktd0sh3i3v5qlnk154xw4vl",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlmLv2tK-pzB8meNA8iW4qRC3B0ipYD2zcx7MR-2tfpt0OLnzC5MstPvFkN6UNtBvod26zz1ti5z5LvCDzr41DM9r4f7d1DDqN9aOMrKOSAdMWuU1qJRZJVBXUAqEc5UdEwAKE1BImNICW0hooIYjGTvD8RFNwA:1nFDZq:bnr5Gmob4js5czAmTSb9Q0plK7j5_-6YQp7_iUJZfn0",
+        "expire_date": "2022-02-16T11:13:30.492Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "9vq0179a1h66aafqe2rz4rhq9mi8ejgz",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlmLv2tK-pzB8meNA8iW4qRC3B0ipYD2zcx7MR-2tfpt0OLnzC5MstPvFkN6UNtBvod26zz1ti5z5LvCDzr41DM9r4f7d1DDqN9aOMrKOSAdMWuU1qJRZJVBXUAqEc5UdEwAKE1BImNICW0hooIYjGTvD8RFNwA:1nFDSk:cRpT6mf-_BKDvixhTU6XgzDFYHFx6Rc7CXLWYo52fYY",
+        "expire_date": "2022-02-16T11:06:10.285Z"
+    }
+},
+{
+    "model": "main.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$320000$ftnqwHTO3AW82R2Z0w3ZlG$Qip5qe5Sz7T/SNpVI1KmF/xWe0sGx8sAWrNyyuOn4SI=",
+        "last_login": "2022-02-02T11:10:13.535Z",
+        "is_superuser": true,
+        "username": "vasya",
+        "first_name": "",
+        "last_name": "",
+        "email": "1@abc.net",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-02-02T10:45:59.335Z",
+        "status": "",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "main.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$320000$mSt6U4em6MVQL0COehzJgS$CcQ/jFgZaJMr3/JPkLlQnHE9GQCL4FCmi83rusb8Kd0=",
+        "last_login": "2022-02-02T11:08:21.474Z",
+        "is_superuser": false,
+        "username": "vanya",
+        "first_name": "",
+        "last_name": "",
+        "email": "test@test.test",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-02-02T11:04:08.920Z",
+        "status": "",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "main.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$320000$Eb9XsEIHGD1u2jD9UkTaOv$9Y7QBFDfiAd+tmmoGKPAFRtnL/+p0DRhpePKG9LpT68=",
+        "last_login": "2022-02-02T11:13:30.441Z",
+        "is_superuser": false,
+        "username": "dima",
+        "first_name": "",
+        "last_name": "",
+        "email": "test1@test.test",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-02-02T11:06:09.536Z",
+        "status": "",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "main.voting",
+    "pk": 1,
+    "fields": {
+        "title": "Кто я?",
+        "description": "Кто же я на самом деле?",
+        "type": 1,
+        "author": 1,
+        "published_at": "2022-02-02T10:48:45.488Z"
+    }
+},
+{
+    "model": "main.voting",
+    "pk": 2,
+    "fields": {
+        "title": "Любимый шоколад",
+        "description": "Какой шоколад Вы любите больше?",
+        "type": 1,
+        "author": 1,
+        "published_at": "2022-02-02T10:51:46.284Z"
+    }
+},
+{
+    "model": "main.voting",
+    "pk": 3,
+    "fields": {
+        "title": "Инвестировать в TAL?",
+        "description": "Инвестировать ли мне в TAL?",
+        "type": 3,
+        "author": 1,
+        "published_at": "2022-02-02T10:53:41.780Z"
+    }
+},
+{
+    "model": "main.voting",
+    "pk": 4,
+    "fields": {
+        "title": "Да или нет?",
+        "description": "Да или нет?",
+        "type": 3,
+        "author": 1,
+        "published_at": "2022-02-02T10:54:09.098Z"
+    }
+},
+{
+    "model": "main.voting",
+    "pk": 5,
+    "fields": {
+        "title": "Какие языки программирования Вы знаете?",
+        "description": "-",
+        "type": 2,
+        "author": 1,
+        "published_at": "2022-02-02T10:57:17.520Z"
+    }
+},
+{
+    "model": "main.voting",
+    "pk": 6,
+    "fields": {
+        "title": "Продукцией каких фирм Вы пользуетесь?",
+        "description": "-",
+        "type": 2,
+        "author": 1,
+        "published_at": "2022-02-02T11:00:15.891Z"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 1,
+    "fields": {
+        "voting": 1,
+        "description": "Вася"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 2,
+    "fields": {
+        "voting": 1,
+        "description": "ВАся"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 3,
+    "fields": {
+        "voting": 1,
+        "description": "ВАСя"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 4,
+    "fields": {
+        "voting": 1,
+        "description": "ВАСЯ"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 5,
+    "fields": {
+        "voting": 1,
+        "description": "вася"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 6,
+    "fields": {
+        "voting": 2,
+        "description": "Горький"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 7,
+    "fields": {
+        "voting": 2,
+        "description": "Молочный"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 8,
+    "fields": {
+        "voting": 2,
+        "description": "Белый"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 9,
+    "fields": {
+        "voting": 2,
+        "description": "Никакой"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 10,
+    "fields": {
+        "voting": 3,
+        "description": "Да"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 11,
+    "fields": {
+        "voting": 3,
+        "description": "Нет"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 12,
+    "fields": {
+        "voting": 4,
+        "description": "Да"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 13,
+    "fields": {
+        "voting": 4,
+        "description": "Нет"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 14,
+    "fields": {
+        "voting": 5,
+        "description": "Python"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 15,
+    "fields": {
+        "voting": 5,
+        "description": "JS"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 16,
+    "fields": {
+        "voting": 5,
+        "description": "C++"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 17,
+    "fields": {
+        "voting": 5,
+        "description": "C#"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 18,
+    "fields": {
+        "voting": 5,
+        "description": "C"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 19,
+    "fields": {
+        "voting": 5,
+        "description": "Ruby"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 20,
+    "fields": {
+        "voting": 5,
+        "description": "Pascal"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 21,
+    "fields": {
+        "voting": 5,
+        "description": "Java"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 22,
+    "fields": {
+        "voting": 5,
+        "description": "Basic"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 23,
+    "fields": {
+        "voting": 5,
+        "description": "Fortran"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 24,
+    "fields": {
+        "voting": 5,
+        "description": "A+"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 25,
+    "fields": {
+        "voting": 6,
+        "description": "Apple "
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 26,
+    "fields": {
+        "voting": 6,
+        "description": "Xiaomi"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 27,
+    "fields": {
+        "voting": 6,
+        "description": "Samsung"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 28,
+    "fields": {
+        "voting": 6,
+        "description": "Honor"
+    }
+},
+{
+    "model": "main.votevariant",
+    "pk": 29,
+    "fields": {
+        "voting": 6,
+        "description": "Huawei"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "created_at": "2022-02-02T11:06:57.498Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 2,
+    "fields": {
+        "user": 1,
+        "created_at": "2022-02-02T11:07:21.123Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 3,
+    "fields": {
+        "user": 1,
+        "created_at": "2022-02-02T11:07:29.983Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 4,
+    "fields": {
+        "user": 1,
+        "created_at": "2022-02-02T11:07:38.665Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 5,
+    "fields": {
+        "user": 1,
+        "created_at": "2022-02-02T11:07:52.104Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 6,
+    "fields": {
+        "user": 1,
+        "created_at": "2022-02-02T11:08:05.815Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 7,
+    "fields": {
+        "user": 2,
+        "created_at": "2022-02-02T11:08:35.479Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 8,
+    "fields": {
+        "user": 2,
+        "created_at": "2022-02-02T11:09:00.542Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 9,
+    "fields": {
+        "user": 2,
+        "created_at": "2022-02-02T11:09:13.499Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 10,
+    "fields": {
+        "user": 2,
+        "created_at": "2022-02-02T11:09:36.616Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 11,
+    "fields": {
+        "user": 2,
+        "created_at": "2022-02-02T11:09:44.236Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 12,
+    "fields": {
+        "user": 2,
+        "created_at": "2022-02-02T11:09:59.372Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 13,
+    "fields": {
+        "user": 3,
+        "created_at": "2022-02-02T11:13:37.676Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 14,
+    "fields": {
+        "user": 3,
+        "created_at": "2022-02-02T11:13:49.625Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 15,
+    "fields": {
+        "user": 3,
+        "created_at": "2022-02-02T11:13:56.215Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 16,
+    "fields": {
+        "user": 3,
+        "created_at": "2022-02-02T11:14:01.054Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 17,
+    "fields": {
+        "user": 3,
+        "created_at": "2022-02-02T11:14:07.461Z"
+    }
+},
+{
+    "model": "main.votefact",
+    "pk": 18,
+    "fields": {
+        "user": 3,
+        "created_at": "2022-02-02T11:14:14.829Z"
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 1,
+    "fields": {
+        "fact": 1,
+        "variant": 26
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 2,
+    "fields": {
+        "fact": 1,
+        "variant": 28
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 3,
+    "fields": {
+        "fact": 1,
+        "variant": 29
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 4,
+    "fields": {
+        "fact": 2,
+        "variant": 14
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 5,
+    "fields": {
+        "fact": 2,
+        "variant": 15
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 6,
+    "fields": {
+        "fact": 2,
+        "variant": 16
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 7,
+    "fields": {
+        "fact": 2,
+        "variant": 18
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 8,
+    "fields": {
+        "fact": 2,
+        "variant": 19
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 9,
+    "fields": {
+        "fact": 2,
+        "variant": 23
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 10,
+    "fields": {
+        "fact": 3,
+        "variant": 13
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 11,
+    "fields": {
+        "fact": 4,
+        "variant": 10
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 12,
+    "fields": {
+        "fact": 5,
+        "variant": 6
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 13,
+    "fields": {
+        "fact": 6,
+        "variant": 4
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 14,
+    "fields": {
+        "fact": 7,
+        "variant": 26
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 15,
+    "fields": {
+        "fact": 7,
+        "variant": 27
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 16,
+    "fields": {
+        "fact": 8,
+        "variant": 14
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 17,
+    "fields": {
+        "fact": 8,
+        "variant": 15
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 18,
+    "fields": {
+        "fact": 8,
+        "variant": 16
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 19,
+    "fields": {
+        "fact": 9,
+        "variant": 12
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 20,
+    "fields": {
+        "fact": 10,
+        "variant": 10
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 21,
+    "fields": {
+        "fact": 11,
+        "variant": 6
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 22,
+    "fields": {
+        "fact": 12,
+        "variant": 5
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 23,
+    "fields": {
+        "fact": 13,
+        "variant": 25
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 24,
+    "fields": {
+        "fact": 14,
+        "variant": 19
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 25,
+    "fields": {
+        "fact": 14,
+        "variant": 22
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 26,
+    "fields": {
+        "fact": 14,
+        "variant": 23
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 27,
+    "fields": {
+        "fact": 14,
+        "variant": 24
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 28,
+    "fields": {
+        "fact": 15,
+        "variant": 12
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 29,
+    "fields": {
+        "fact": 16,
+        "variant": 10
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 30,
+    "fields": {
+        "fact": 17,
+        "variant": 8
+    }
+},
+{
+    "model": "main.votefactvariant",
+    "pk": 31,
+    "fields": {
+        "fact": 18,
+        "variant": 4
+    }
+}
+]
